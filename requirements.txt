@@ -1,0 +1,6 @@
+news-please==1.5.22
+beautifulsoup4==4.11.1
+rake_new2==1.0.5
+peewee==3.15.1
+requests==2.28.1
+PyYAML==5.4.1

@@ -1,0 +1,4 @@
+news_spider:
+  urls:
+    - 'https://www.cbc.ca/news/canada/montreal'
+
